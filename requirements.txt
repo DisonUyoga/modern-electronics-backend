@@ -4,7 +4,7 @@ cffi
 charset-normalizer
 cryptography
 defusedxml
-Django
+Django==4.2.3
 django-cors-headers
 django-templated-mail
 djangorestframework
@@ -23,6 +23,6 @@ requests-oauthlib
 setuptools
 social-auth-app-django
 social-auth-core
-sqlparse
+sqlparse==0.4.4
 tzdata
 urllib3
